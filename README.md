@@ -27,7 +27,7 @@
 
 | File | Description |
 | --- | --- |
-| [System_Hardening_Lab_Report.docx](./System_Hardening_Lab_Report.docx) | Complete lab report with all screenshots embedded |
+| [System_Hardening_Lab_Report.pdf](./System_Hardening_Lab_Report.pdf) | Complete lab report with all screenshots embedded |
 | README.md | Project overview |
 
 ---
