@@ -23,14 +23,16 @@
 
 ---
 
-## 📁 Repository Structure
-
+## 📁 Full Lab Walkthrough — Proof of Work
 | File | Description |
 | --- | --- |
-| [System_Hardening_Lab_Report.pdf](./System_Hardening_Lab_Report.pdf) | Complete lab report with all screenshots embedded |
-| README.md | Project overview |
+| [System_Hardening_Lab_Report.pdf](./System_Hardening_Lab_Report.pdf) | Hands-on lab walkthrough with screenshots |
 
 ---
+
+<br>
+
+
 
 ## 📋 Overview
 
@@ -306,9 +308,13 @@ PingCastle re-scan after GPO deployment:
 ## 🔗 Related Projects
 
 > Part of the **Bikash Security Lab** series:
+> * [AD Enumeration — BloodHound & SharpHound](https://github.com/Bikash-Raya/AD-Enumeration-Bloodhound-Sharphound)
 > * [Nessus Vulnerability Management Lab](https://github.com/Bikash-Raya/Nessus-Vulnerability-Management-Lab)
 > * [Microsoft Sentinel & Defender XDR — SOC IR Lab](https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab)
+> * [Azure IAM Security Lab](https://github.com/Bikash-Raya/azure-iam-security-lab)
 
+
+>  Thanks for reading! For a full hands-on walkthrough of this lab with screenshots — [download the lab report here](./System_Hardening_Lab_Report.pdf)
 ---
 
 ## 🔗 Connect With Me
